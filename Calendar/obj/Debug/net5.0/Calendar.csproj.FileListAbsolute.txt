@@ -1,0 +1,12 @@
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\bin\Debug\net5.0\Calendar.deps.json
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\bin\Debug\net5.0\Calendar.dll
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\bin\Debug\net5.0\ref\Calendar.dll
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\bin\Debug\net5.0\Calendar.pdb
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.csprojAssemblyReference.cache
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.AssemblyInfo.cs
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.dll
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\ref\Calendar.dll
+C:\Users\erika\OneDrive\desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.pdb
